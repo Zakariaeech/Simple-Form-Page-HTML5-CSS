@@ -19,13 +19,18 @@ HTML5 is a markup language used for structuring and presenting content. I used t
 
 I used an external method to link between then HTML and CSS
 
-```
+```html :
+
 <link href="/style.css" rel="stylesheet">
-```HTML
+
+```
 
 ## I used an image background
-```
+
+```css:
+
 body {
 background: url("/texture.jpg" ) no-repeat center center/cover;
 }
-```CSS
+
+```
