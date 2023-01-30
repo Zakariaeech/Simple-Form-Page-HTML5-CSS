@@ -22,3 +22,7 @@ I used an external method to link between then HTML and CSS
 <link href="/style.css" rel="stylesheet">
 
 ## I used an image background
+
+body {
+background: url("/texture.jpg" ) no-repeat center center/cover;
+}
