@@ -1,7 +1,7 @@
 # Simple-Form-Page-HTML5-CSS
-This is a form page using HTML and CSS (no back-end) 
+This is a form page using HTML and CSS (no back-end used here) 
 
-You can run the website at : [https://inspiring-boba-f175ff.netlify.app/](https://inspiring-boba-f175ff.netlify.app/)
+You can run this form at : [https://delicate-pithivier-01a16d.netlify.app/](https://delicate-pithivier-01a16d.netlify.app/)
 
 ## CSS
 
