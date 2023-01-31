@@ -1,5 +1,5 @@
 # Simple-Form-Page-HTML5-CSS
-This is an example of forum page using HTML and CSS 
+This is a form page using HTML and CSS (no back-end) 
 
 # Create form using HTML5 & CSS
 
